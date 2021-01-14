@@ -11,7 +11,7 @@ sections:
   label: Home
 - type: directory
   path: content/post
-  label: Posts
+  label: Work
   create: all
   match: "**/*"
   templates:
